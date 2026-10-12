@@ -1,0 +1,10 @@
+{
+  "defaultCity": "huancayo",
+  "cities": [
+    {"id":"huancayo","name":"Huancayo","center":[-75.205,-12.065],"zoom":11.5,"years":[2007,2017,2025],"geojson":"datos/huancayo_urbano.geojson","source":"Polígonos ilustrativos para pruebas; no representan la expansión urbana real.","demo":true,"powerbi":""},
+    {"id":"lima","name":"Lima","center":[-77.0428,-12.0464],"zoom":10.5,"years":[],"geojson":"","source":"Sin datos cargados.","demo":false,"powerbi":""},
+    {"id":"trujillo","name":"Trujillo","center":[-79.029,-8.112],"zoom":11,"years":[],"geojson":"","source":"Sin datos cargados.","demo":false,"powerbi":""},
+    {"id":"arequipa","name":"Arequipa","center":[-71.5375,-16.409],"zoom":11,"years":[],"geojson":"","source":"Sin datos cargados.","demo":false,"powerbi":""},
+    {"id":"chiclayo","name":"Chiclayo","center":[-79.84,-6.772],"zoom":11,"years":[],"geojson":"","source":"Sin datos cargados.","demo":false,"powerbi":""}
+  ]
+}
